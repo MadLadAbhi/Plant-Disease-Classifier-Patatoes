@@ -14,3 +14,5 @@ The dataset, sourced from Kaggle, contains labeled potato leaf images annotated 
 
 Future Prospects: 
 Expanding the model's application to other plants is envisioned, promoting production efficiency and economic growth in agriculture. Additionally, AI-based applications utilizing cameras for easy disease identification in plants are in development.
+
+Ghant Chart Link:- https://docs.google.com/spreadsheets/d/1Bhd0g5x9UXyEcG4HBMWb0l8BgsuoEFnyeOX9AAwGC-k/edit#gid=0
